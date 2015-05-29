@@ -1,49 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://brainupkids.com/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</loc>
-        <lastmod>2015-05-29T15:45:38+07:00</lastmod>
+        <loc>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</loc>
+        <lastmod>2015-05-29T22:41:01+07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://brainupkids.com/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html
+            http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html
         </loc>
-        <lastmod>2015-05-29T15:45:38+07:00</lastmod>
+        <lastmod>2015-05-29T22:44:13+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html</loc>
-        <lastmod>2015-05-29T15:45:38+07:00</lastmod>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html
+        </loc>
+        <lastmod>2015-05-29T22:45:59+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html</loc>
-        <lastmod>2015-05-29T15:45:38+07:00</lastmod>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html
+        </loc>
+        <lastmod>2015-05-29T22:47:42+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html</loc>
-        <lastmod>2015-05-29T15:45:38+07:00</lastmod>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html
+        </loc>
+        <lastmod>2015-05-29T22:49:32+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/about.html</loc>
+        <loc>http://brainupkids.com/blog/blog/about.html</loc>
         <lastmod>2015-04-28T09:09:05+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/archives/</loc>
+        <loc>http://brainupkids.com/blog/blog/archives/</loc>
         <lastmod>2015-05-28T05:21:31+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/categories/</loc>
+        <loc>http://brainupkids.com/blog/blog/categories/</loc>
         <lastmod>2015-05-29T15:44:07+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/</loc>
-        <lastmod>2015-05-29T06:11:39+07:00</lastmod>
+        <loc>http://brainupkids.com/blog/blog/</loc>
+        <lastmod>2015-05-29T22:49:32+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/links.html</loc>
+        <loc>http://brainupkids.com/blog/blog/links.html</loc>
         <lastmod>2015-04-28T09:09:05+07:00</lastmod>
     </url>
     <url>
-        <loc>http://brainupkids.com/blog/tags/</loc>
+        <loc>http://brainupkids.com/blog/blog/tags/</loc>
         <lastmod>2015-05-29T15:44:45+07:00</lastmod>
     </url>
 </urlset>

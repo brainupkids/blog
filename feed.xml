@@ -3,12 +3,14 @@
 	<channel>
 		<title>Brainup Kids</title>
 		<description>Nơi chia sẻ các kiến thức về sức khỏe và tâm hồn con trẻ</description>
-		<link>http://brainupkids.com/blog</link>
-		<atom:link href="http://brainupkids.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://brainupkids.com/blog/blog</link>
+		<atom:link href="http://brainupkids.com/blog/blog/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Các bài hát ru con Nam Bộ</title>
 				<description>&lt;p&gt;Thể loại Hát Ru Con Miền Nam còn được gọi là Hát Đưa Em. Hát Ru Con là một âm điệu nhẹ nhàng ngân nga đầy tình cảm của người mẹ (hoặc Bà, hoặc Chị) dành cho con từ thuở sơ sinh. Tình yêu thương của mẹ và những lời ru thường là dấu ấn theo bước chân con đến khi khôn lớn cả đời. Thế nên đa số người con không ít nhiều thường khắc cốt ghi tâm những bài hát ru của mẹ.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/ru-con-nam-bo-1.jpg&quot; alt=&quot;Ru con Nam Bộ&quot;&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;bài-hát-ru-con-nam-bộ-1&quot;&gt;Bài hát ru con Nam Bộ 1&lt;/h1&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Ầu ơ… Ví dầu cầu ván đóng đinh…
@@ -60,8 +62,6 @@ Bâng khuâng nhớ mẹ chín chiều ruột đau.
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Ầu ơ… Gió đưa gió đẩy về rẫy ăn còng…
 Về sông ăn cá về đồng ăn cua.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;/blog/images/ru-con-nam-bo-1.jpg&quot; alt=&quot;Ru con Nam Bộ&quot;&gt;&lt;/p&gt;
-
 &lt;h1 id=&quot;bài-hát-ru-con-nam-bộ-4&quot;&gt;Bài hát ru con Nam Bộ 4&lt;/h1&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Gió mùa thu.. mẹ ru mà con ngủ..
 Năm canh chày.. năm canh chày.. thức đủ vừa năm..
@@ -93,8 +93,8 @@ Con hỡi con hời.. con hỡi con
 &lt;p&gt;(Trần Hà Phương)&lt;/p&gt;
 </description>
 				<pubDate>Sat, 25 Apr 2015 04:25:06 +0700</pubDate>
-				<link>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html</link>
-				<guid isPermaLink="true">http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html</guid>
+				<link>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html</link>
+				<guid isPermaLink="true">http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-nam-bo.html</guid>
 			</item>
 		
 			<item>
@@ -147,7 +147,7 @@ ai ngồi ai câu, ai sầu, ai thảm,ai thương ai cảm, ai nhớ ai trông.
 ơ....ơ....ơ.....đưa câu mái đẩy chạnh lòng non ơ...nước non...ơ.... 
 Ơ..........
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/KtQ9arRwLSc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/KtQ9arRwLSc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;bài-hát-ru-trung-bộ-4&quot;&gt;Bài hát ru Trung Bộ 4&lt;/h1&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Hà ơi ơi ơi…
@@ -223,18 +223,20 @@ Ai thương bằng tình mẹ thương con
 (Chứ) bao giờ cá lý hoá long
 Đền ơn cha mẹ, đền ơn cha mẹ ẵm bồng (chứ) ngày xưa
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/RwYT6pDgHbM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/RwYT6pDgHbM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;(Trần Hà Phương)&lt;/p&gt;
 </description>
 				<pubDate>Fri, 24 Apr 2015 00:25:06 +0700</pubDate>
-				<link>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html</link>
-				<guid isPermaLink="true">http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html</guid>
+				<link>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html</link>
+				<guid isPermaLink="true">http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-trung-bo.html</guid>
 			</item>
 		
 			<item>
 				<title>Các bài hát ru con Bắc Bộ</title>
 				<description>&lt;p&gt;Theo giáo sư Trần Văn Khê, &amp;ldquo;Hát ru là bài học giáo dục âm nhạc đầu tiên người mẹ truyền cho đứa con. Cùng lúc với dòng sữa nóng nuôi thân thể của con thì một làn điệu thi ca dân gian, một nét nhạc dân tộc được rót vào trong tiềm thức của bé.&amp;rdquo;. Trong bài viết này, chúng ta cùng tập hợp lại một số bài hát ru thuộc thể loại &amp;ldquo;Hát ru con miền Bắc&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/ru-con-bac-bo.jpg&quot; alt=&quot;Ru con Bắc Bộ&quot;&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;bài-hát-ru-1&quot;&gt;Bài hát ru 1&lt;/h1&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;À a á ơi ...Chim trời ai dễ đếm lông, nuôi con ai nỡ tính công tháng ngày.  
@@ -360,20 +362,20 @@ hỏi con chim chích đang truyền cành chanh.
 à à ời...à à ơi...Thằng Bờm hắn vẫn đùa quanh, chia xôi cho bé bé khanh khách cười, mẹ hiền cho giắc ngủ vui trong mơ bé có ban người bạn thân 
 à à ời...à à ơi...Lời mẹ ru có phép thần từ trong tim mẹ, ơ...vang ngân bao đời...à à ời...à à ơi...
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/QUvinjilutg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/QUvinjilutg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
 				<pubDate>Thu, 23 Apr 2015 00:25:06 +0700</pubDate>
-				<link>http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html</link>
-				<guid isPermaLink="true">http://brainupkids.com/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html</guid>
+				<link>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html</link>
+				<guid isPermaLink="true">http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/cac-bai-hat-ru-con-bac-bo.html</guid>
 			</item>
 		
 			<item>
 				<title>Hình như phụ nữ ngày nay ... không biết ru con</title>
 				<description>&lt;p&gt;Có lẽ hầu hết tuổi thơ của những người thuộc thế hệ của tôi đều lớn lên trong lời ru của mẹ. Trong thế giới lời ru đầy huyền ảo ấy có cánh cò thơ mộng, có con cò đi đón cơn mưa và có cả: “con cò mày đi ăn đêm” đến nỗi “đậu phải cành mềm… ” đầy ẩn ức. Trong lời ru ấy có cánh đồng bát ngát, có dòng sông cuồn cuộn, có núi cao ngút ngàn, rừng sâu thăm thẳm và có cả những giọt nước mắt đầy ắp những buồn vui, những gian lao, nhọc nhằn nhưng đầy hạnh phúc của người phụ nữ mang tên là MẸ.&lt;/p&gt;
 
-&lt;p&gt;Những đứa trẻ thuộc thế hệ của tôi tối tối, trưa trưa mơ màng trong cái thế giới cổ tích đầy huyền thoại và ngủ trong mồ hôi nồng nồng của mẹ cùng với tiếng võng tre kêu kẽo kẹt mỗi đêm hè.&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;/blog/images/phu-nu-ru-con-thoi-xua-1.jpg&quot; alt=&quot;Phụ nữ thời xưa ru con&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Những đứa trẻ thuộc thế hệ của tôi tối tối, trưa trưa mơ màng trong cái thế giới cổ tích đầy huyền thoại và ngủ trong mồ hôi nồng nồng của mẹ cùng với tiếng võng tre kêu kẽo kẹt mỗi đêm hè.&lt;/p&gt;
 
 &lt;p&gt;Ngày xưa, mỗi buổi trưa trên đường làng tràn ngập tiếng ru. Tiếng rè rè, ngắt quãng theo nhịp thở là tiếng bà ru cháu. Tiếng khàn khàn xen lẫn húng hắng ho là tiếng của các cụ ông. Còn tiếng lắt lẻo, chênh chao trên ngọn tre đầu làng là tiếng ru của các bà mẹ trẻ….&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Ầu ơ … ví dầu
@@ -421,13 +423,15 @@ Từ khi đất nước chuyển mình đi vào công nghiệp hóa, cuộc số
 &lt;p&gt;Đó là những dòng tâm sự, những suy nghĩ, trăn trở của tác giả Bùi Rửa Bát. Còn bạn - những người mẹ trẻ thời nay - bạn có biết hát ru con?&lt;/p&gt;
 </description>
 				<pubDate>Mon, 20 Apr 2015 23:25:06 +0700</pubDate>
-				<link>http://brainupkids.com/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html</link>
-				<guid isPermaLink="true">http://brainupkids.com/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html</guid>
+				<link>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html</link>
+				<guid isPermaLink="true">http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/phu-nu-thoi-nay-khong-biet-ru-con.html</guid>
 			</item>
 		
 			<item>
 				<title>Lời ru, tiếng võng ầu ơ ...</title>
 				<description>&lt;p&gt;Được mẹ ru, được tay mẹ đưa nôi vẫn là niềm hạnh phúc tròn trĩnh, an yên nhất của một đứa trẻ. Nó không chỉ vỗ về con thơ vào giấc ngủ mà còn chất chứa nhiều yêu thương. Lời ru của mẹ còn là tri thức sơ khai góp phần định hình tính cách, tâm hồn trẻ thơ.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/loi-ru-ben-canh-vong.jpg&quot; alt=&quot;Phụ nữ thời xưa ru con&quot;&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;tiếng-ru-ngọt-ngào-từ-tim-mẹ&quot;&gt;Tiếng ru ngọt ngào từ tim mẹ&lt;/h1&gt;
 
@@ -437,7 +441,7 @@ Từ khi đất nước chuyển mình đi vào công nghiệp hóa, cuộc số
 
 &lt;p&gt;Tự ngàn đời, những hình ảnh thân thuộc của quê hương như: bến nước, con đò, đêm trăng, cầu tre lắc lẻo, cánh có bay lả bay la đã được kết thành những lời ru ngọt ngào triều mến, quyện vào tiếng võng đong đưa, tiếng mẹ ru hời ru hởi đã đưa con trẻ vào giấc ngủ say. Năm tháng cứ qua đi song tiếng ru của mẹ vẩn được giữ gìn trọn vẹn trong tâm hồn của mỗi chúng ta với bao kỷ niệm êm đềm của thời thơ ấu.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/images/loi-ru-ben-canh-vong.jpg&quot; alt=&quot;Phụ nữ thời xưa ru con&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/images/loi-ru-cua-me.jpg&quot; alt=&quot;Phụ nữ thời xưa ru con&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Có người bảo &lt;em&gt;thời đại này ai lại đi hát ru làm gì nữa&lt;/em&gt;. Các bà mẹ thời nay có con và cho con nghe nhạc không lời từ trong bụng để kích thích tư duy. Khi đứa bé ra đời, ba mẹ cũng chỉ bật nhạc mỗi lần cho con ngủ. Đến cái võng cũng được thay bằng cái nôi điện tự động đưa, ta chẳng cần đụng tay vào. Mới hay, cứ như vậy, theo năm tháng đi lên của xã hội bây giờ, những bài hát ru không chừng phải cần một viện bảo tàng để lưu giữ. Trong nhịp sống tốc độ và hiện đại thời đô thị hoá, công nghiệp hoá, mấy nơi còn tồn tại cảnh bà ru cháu, mẹ ru con, chị ru em trên cánh võng; mấy ai còn được nghe điệu à ơi quen thuộc. Đôi khi, miên man với vô vàn những điều thoáng qua trí nghĩ, bất chợt bắt gặp lời ru con cất lên từ đâu đó, thấy lòng dịu lại, những hình ảnh ấu thơ thi nhau kéo về.&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;À ơi!!! Cái ngủ mày ngủ cho ngoan 
@@ -446,8 +450,6 @@ Bắt được con chép con trê
 Cột cổ lôi về cho cái ngủ ăn…
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Được mẹ ru, được tay mẹ đưa nôi vẫn là niềm hạnh phúc tròn trĩnh, an yên nhất của một đứa trẻ. Nó không chỉ vỗ về con thơ vào giấc ngủ mà còn chất chứa nhiều yêu thương. Đôi lần, tôi lại ước ao, giá được quay về một lần thôi, thuở còn nằm nôi, được ủ ấm trong vòng tay mẹ, cảm nhận mùi sữa thơm yêu nồng nàn và được nghe tiếng ru hời ngọt ngào yêu dấu ấy. Lời ru của mẹ còn là tri thức sơ khai góp phần định hình tính cách, tâm hồn trẻ thơ. Qua lời ru lòng nhân ái được hình thành, trẻ thơ biết thương yêu ông bà, cha mẹ, anh chị và những người thân trong gia đình. Trong muôn vàn tín hiệu của tình yêu thương thì lời ru của mẹ có ý nghĩa sâu sắc, đậm đà và để lại những ấn tượng khó phai mờ nhất. Sung sướng và hạnh phúc biết bao khi chúng ta lớn lên trong tình yêu thương của mọi người nhất là tình yêu thương trìu mến của mẹ, qua lời ru của mẹ cho chúng ta giấc ngủ ngon lành hơn, đưa chúng ta bay bổng vào những giấc mơ đẹp nơi có những cánh có bay lả bay la với những bông hoa đầy màu sắc để những giấc ngủ trẻ thơ được mỉm cười êm ả trong mơ.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/images/loi-ru-cua-me.jpg&quot; alt=&quot;Phụ nữ thời xưa ru con&quot;&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;nét-văn-hoá-riêng-có-của-việt-nam&quot;&gt;Nét văn hoá riêng có của Việt Nam&lt;/h1&gt;
 
@@ -468,8 +470,8 @@ Gánh gạo nuôi chồng tiếng khóc nỉ non…
 &lt;p&gt;(Trần Hà Phương)&lt;/p&gt;
 </description>
 				<pubDate>Sun, 08 Mar 2015 17:08:15 +0700</pubDate>
-				<link>http://brainupkids.com/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</link>
-				<guid isPermaLink="true">http://brainupkids.com/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</guid>
+				<link>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</link>
+				<guid isPermaLink="true">http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</guid>
 			</item>
 		
 	</channel>
