@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-day-con/5-chieu-don-gian-day-con-hoc-cach-kien-nhan.html
+        </loc>
+        <lastmod>2015-06-02T10:25:32+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://brainupkids.com/blog/blog/nuoi-day-con/meo-vui-day-be-danh-rang.html</loc>
         <lastmod>2015-05-30T18:52:40+07:00</lastmod>
     </url>
@@ -17,6 +23,18 @@
         <lastmod>2015-06-01T16:04:30+07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-day-con/ky-nang-song-cho-tre/nhung-dieu-can-day-con-cang-som-cang-tot.html
+        </loc>
+        <lastmod>2015-06-01T17:21:59+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-day-con/tao-thoi-quen-an-uong-lanh-manh-cho-tre.html
+        </loc>
+        <lastmod>2015-06-02T08:37:54+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://brainupkids.com/blog/blog/nuoi-day-con/lam-gi-de-be-thoi-mut-tay.html</loc>
         <lastmod>2015-05-31T13:08:07+07:00</lastmod>
     </url>
@@ -31,6 +49,12 @@
             http://brainupkids.com/blog/blog/nuoi-day-con/ren-luyen-thoi-quen-rua-tay-thuong-xuyen-cho-tre.html
         </loc>
         <lastmod>2015-05-31T14:13:16+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://brainupkids.com/blog/blog/nuoi-day-con/ky-nang-song-cho-tre/bi-quyet-day-con-lam-viec-nha-tu-be.html
+        </loc>
+        <lastmod>2015-06-02T15:21:37+07:00</lastmod>
     </url>
     <url>
         <loc>http://brainupkids.com/blog/blog/nuoi-duong-tam-hon/loi-ru-tieng-vong-au-o.html</loc>
@@ -80,7 +104,7 @@
     </url>
     <url>
         <loc>http://brainupkids.com/blog/blog/</loc>
-        <lastmod>2015-06-01T16:04:30+07:00</lastmod>
+        <lastmod>2015-06-02T15:21:37+07:00</lastmod>
     </url>
     <url>
         <loc>http://brainupkids.com/blog/blog/links.html</loc>
